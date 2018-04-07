@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1522575069 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522575424 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522515823 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522539041 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1523011442 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523009479 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522931360 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<fstream>
+	<string>
+	"graph.h"
+
+1523005851 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\graph.h
+	<fstream>
+	<string>
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522932349 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	<fstream>
+	<string>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1522575069 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\grman\coords.cpp
+	"coords.h"
+
+1522575424 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\grman\coords.h
+	<cmath>
+
+1522515823 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522539041 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\grman\grman_couleurs.h
+
+1523125575 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523009479 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\grman\widget.cpp
+	"widget.h"
+
+1523122176 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<fstream>
+	<string>
+	"graph.h"
+
+1523125606 c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\graph.h
+	<fstream>
+	<string>
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523125744 source:c:\users\pierr\documents\ece\info\projet info 2\graph_lib_exemple_graph_v2\graph.cpp
+	"graph.h"
+	<fstream>
+	<string>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"grman/grman.h"
+
