@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1523147404 source:c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\graph.cpp
+	"graph.h"
+	<fstream>
+	<string>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"grman/grman.h"
+	<list>
+
+1523147436 c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	<list>
+	"grman/grman.h"
+
+1522539041 c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\grman\grman_couleurs.h
+
+1522575424 c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\grman\coords.h
+	<cmath>
+
+1523147062 c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\grman\coords.cpp
+	"coords.h"
+
+1522515823 source:c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522636919 source:c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\grman\widget.cpp
+	"widget.h"
+
+1523149565 source:c:\users\pierr\documents\ece\info\projet info 2\projetinfos2\projetinfos2\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
