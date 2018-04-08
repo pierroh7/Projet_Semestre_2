@@ -1,0 +1,9 @@
+0 100.0 400 30 baujault.jpg
+1 60.0 120 170 mouhali.jpg
+2 60.0 350 170 segado.png
+3 50.0 600 170 pidell.jpg
+4 400.0 260 290 scolarite.jpg
+5 20.0 470 350 delegue.jpg
+6 100.0 690 350 argent.png
+7 100.0 280 420 international.jpg
+8 10.0 120 480 eleves.jpg

@@ -1,0 +1,11 @@
+0 100.0 120 20 baleine.jpg
+1 50.0 360 30 manchotadelie.jpg
+2 50.0 550 30 leoparddemer.jpg
+3 100.0 750 30 orque.jpg
+4 50.0 120 210 gorfou.jpg
+5 40.0 300 260 grospoisson.jpg
+6 50.0 520 230 manchotempereur.jpg
+7 70.0 700 180 elephantdemer.jpg
+8 20.0 150 460 krill.jpg
+9 20.0 400 430 petitpoisson.jpg
+10 70.0 670 470 phoquewanddell.jpg
